@@ -34,5 +34,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * Target variable: "IS_SUCCESSFUL" 
 * The features to be removed: "EIN", "NAME"
 
-* In the original model, I used two layers, I tried several times to get a better accuracy score using two layers. On the last try, I added a third layer. It may not have been the correct addition or was overfit for this model. In this case it did not make sense to add another layer. The most accurate model I could come up with was from AlphabetSoupCharity_Optimization2.ipynb where the accuracy was 0.73 and loss of 0.56. I tried to improve that with different number of epochs/changing the layers/how the data was preprocessed. 
+* In the original model, I used two layers, I tried several times to get a better accuracy score using two layers. On the last try, I added a third layer. It may not have been the correct addition or was overfit for this model. In this case it did not make sense to add another layer. The most accurate model I could come up with was from AlphabetSoupCharity_Optimization2.ipynb where the accuracy was 0.73 and loss of 0.55. I tried to improve that with different number of epochs/changing the layers/how the data was preprocessed. 
 
