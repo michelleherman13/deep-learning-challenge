@@ -27,3 +27,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 </details>
 
 [Resource](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/): used for clearer understanding on how to configure number of layers/nodes.
+
+[Resource](https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/): used for understanding number of training epochs.
